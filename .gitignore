@@ -1,0 +1,9 @@
+node_modules/
+dist/
+work/
+.env
+.env.*
+!.env.example
+hostgator/config.php
+.DS_Store
+*.log
